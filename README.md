@@ -97,13 +97,4 @@ Thanks goes to these wonderful people 💜
   <img src="https://contrib.rocks/image?repo=Soumyajit2825/TO-DO-LIST" />
 </a>
 
-## Resources 
 
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-- [GitHub Help](https://help.github.com)
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
